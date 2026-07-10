@@ -28,3 +28,12 @@ The public legal pages are available at:
 https://naresh-game-studio.github.io/lexitide-legal/privacy-policy.html
 https://naresh-game-studio.github.io/lexitide-legal/terms-and-conditions.html
 https://naresh-game-studio.github.io/lexitide-legal/data-deletion.html
+```
+
+## Contact
+
+For questions related to LexiTide, contact:
+
+```text
+nareshgamesstudio@gmail.com
+```
